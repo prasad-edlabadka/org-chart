@@ -1,0 +1,524 @@
+<svg class="svg-chart-container" width="558" height="600" font-family="Helvetica" cursor="move"><g class="chart"><g class="center-group" transform="translate(720,40) scale(1)"><g class="links-wrapper"><path class="link" d="
+                  M -1365 200
+                  L -1365 200
+                  L -1365 200
+                  L -1365 200
+                  C  -1365 180 -1365 180 -1345 180
+                  L -20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -595 280
+                  L -555 280
+                  L -555 200
+                  L -555 200
+                  C  -555 180 -555 180 -535 180
+                  L -20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 85 200
+                  L 85 200
+                  L 85 200
+                  L 85 200
+                  C  85 180 85 180 65 180
+                  L 20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 725 200
+                  L 725 200
+                  L 725 200
+                  L 725 200
+                  C  725 180 725 180 705 180
+                  L 20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -515 280
+                  L -555 280
+                  L -555 200
+                  L -555 200
+                  C  -555 180 -555 180 -535 180
+                  L -20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -595 455
+                  L -555 455
+                  L -555 200
+                  L -555 200
+                  C  -555 180 -555 180 -535 180
+                  L -20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -515 455
+                  L -555 455
+                  L -555 200
+                  L -555 200
+                  C  -555 180 -555 180 -535 180
+                  L -20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -595 630
+                  L -555 630
+                  L -555 200
+                  L -555 200
+                  C  -555 180 -555 180 -535 180
+                  L -20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 1365 200
+                  L 1365 200
+                  L 1365 200
+                  L 1365 200
+                  C  1365 180 1365 180 1345 180
+                  L 20 180
+                  C  0  180 0  180 0 160
+                  L 0 160
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -1575 480
+                  L -1535 480
+                  L -1535 400
+                  L -1535 400
+                  C  -1535 380 -1535 380 -1515 380
+                  L -1385 380
+                  C  -1365  380 -1365  380 -1365 360
+                  L -1365 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -1495 480
+                  L -1535 480
+                  L -1535 400
+                  L -1535 400
+                  C  -1535 380 -1535 380 -1515 380
+                  L -1385 380
+                  C  -1365  380 -1365  380 -1365 360
+                  L -1365 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -1045 400
+                  L -1045 400
+                  L -1045 400
+                  L -1045 400
+                  C  -1045 380 -1045 380 -1065 380
+                  L -1345 380
+                  C  -1365  380 -1365  380 -1365 360
+                  L -1365 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -1575 655
+                  L -1535 655
+                  L -1535 400
+                  L -1535 400
+                  C  -1535 380 -1535 380 -1515 380
+                  L -1385 380
+                  C  -1365  380 -1365  380 -1365 360
+                  L -1365 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 45 480
+                  L 85 480
+                  L 85 400
+                  L 85 380
+                  C  85 380 85 380 85 380
+                  L 85 380
+                  C  85  380 85  380 85 380
+                  L 85 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 125 480
+                  L 85 480
+                  L 85 400
+                  L 85 380
+                  C  85 380 85 380 85 380
+                  L 85 380
+                  C  85  380 85  380 85 380
+                  L 85 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 685 480
+                  L 725 480
+                  L 725 400
+                  L 725 380
+                  C  725 380 725 380 725 380
+                  L 725 380
+                  C  725  380 725  380 725 380
+                  L 725 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 765 480
+                  L 725 480
+                  L 725 400
+                  L 725 380
+                  C  725 380 725 380 725 380
+                  L 725 380
+                  C  725  380 725  380 725 380
+                  L 725 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 685 655
+                  L 725 655
+                  L 725 400
+                  L 725 380
+                  C  725 380 725 380 725 380
+                  L 725 380
+                  C  725  380 725  380 725 380
+                  L 725 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 1325 480
+                  L 1365 480
+                  L 1365 400
+                  L 1365 380
+                  C  1365 380 1365 380 1365 380
+                  L 1365 380
+                  C  1365  380 1365  380 1365 380
+                  L 1365 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 1405 480
+                  L 1365 480
+                  L 1365 400
+                  L 1365 380
+                  C  1365 380 1365 380 1365 380
+                  L 1365 380
+                  C  1365  380 1365  380 1365 380
+                  L 1365 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M 1325 655
+                  L 1365 655
+                  L 1365 400
+                  L 1365 380
+                  C  1365 380 1365 380 1365 380
+                  L 1365 380
+                  C  1365  380 1365  380 1365 380
+                  L 1365 360
+       " fill="none" stroke="lightgray" stroke-width="2"></path><path class="link" d="
+                  M -1045 600
+                  L -1045 600
+                  L -1045 600
+                  L -1045 580
+                  C  -1045 580 -1045 580 -1045 580
+                  L -1045 580
+                  C  -1045  580 -1045  580 -1045 580
+                  L -1045 560
+       " fill="none" stroke="lightgray" stroke-width="2"></path></g><g class="nodes-wrapper"><g class="node" transform="translate(-120, 0)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Ajit Pillai </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Senior Vice President and Head of Dev Test </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Engineering </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  9 👤</div>  
+                 <div> Oversees: 22 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" opacity="1"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:0px;line-height:1.2;height:11px;font-size:25px">ˆ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-1485, 200)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Venkatachalam Hariharan Iyer  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Vice President - Quality Assurance </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> QA </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  4 👤</div>  
+                 <div> Oversees: 5 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" opacity="1"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:0px;line-height:1.2;height:11px;font-size:25px">ˆ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-835, 200)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Amitkumar Ajitkumar Baxi  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Associate Vice President IT Core Applications Dev </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-35, 200)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Ramesh Babu Kadiyala  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Associate Vice President IT Integration Dev </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  2 👤</div>  
+                 <div> Oversees: 2 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" opacity="1"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:0px;line-height:1.2;height:11px;font-size:25px">ˆ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(605, 200)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Manjit Kaur  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Associate Vice President IT Parametrization Dev </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  3 👤</div>  
+                 <div> Oversees: 3 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" opacity="1"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:0px;line-height:1.2;height:11px;font-size:25px">ˆ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-515, 200)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Udayini Dama  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-835, 375)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Sathiyan Venkatesh  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-515, 375)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Kamal Kishore  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Senior System Analyst  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-835, 550)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Madeswaran Sundararajan  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Developer </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(1245, 200)" cursor="pointer" style="font: 12px sans-serif;" opacity="1"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Sharabdheen Aboobacker  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Associate Vice President IT Customer Experience Dev </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  3 👤</div>  
+                 <div> Oversees: 3 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" opacity="1"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:0px;line-height:1.2;height:11px;font-size:25px">ˆ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-1815, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Tamanna Juneja  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> QA </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-1495, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Singaravelan Devarajan  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> QA </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-1165, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Rathakrishnan Kanagaraj  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager- QA </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> QA </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  1 👤</div>  
+                 <div> Oversees: 1 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" opacity="1"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:0px;line-height:1.2;height:11px;font-size:25px">ˆ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-1815, 575)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Athira Snehalatha  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Officer - Quality Assurance </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> QA </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-195, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Vinoth Kumar Rajendran  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(125, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Bibin Varkey OOmmen  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(445, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Mohammad Fakhre Alam  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager Parameterization </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Parameter </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(765, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Balaji Natarajan  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> System Analyst </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Parameter </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(445, 575)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Sunil Kumar Sudhakaran  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Parameter </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(1085, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Arjun Thanniyanickal Raj  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Assistant Manager </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(1405, 400)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Guruprasad Singirikonda  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> DevOps Engineer </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(1085, 575)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Tina Mary Abraham  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> System Analyst </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> Unknown </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g><g class="node" transform="translate(-1165, 600)" cursor="pointer" opacity="1" style="font: 12px sans-serif;"><rect class="node-rect" width="240" height="160" x="0" y="0" cursor="pointer" rx="3" fill="none" stroke="none" stroke-width="1"></rect><foreignObject class="node-foreign-object" width="240" height="160" x="0" y="0" style="overflow: visible;"><div class="node-foreign-object-div" style="width: 240px; height: 160px;">
+            <div style="background-color:none;margin-left:1px;height:160px;border-radius:2px;overflow:visible">
+              <div style="height:160px;padding-top:0px;background-color:white;border:3px solid #EB2544;">
+
+               <div style="padding:10px; text-align:center">
+                   <div style="color:#EB2544;font-size:16px;font-weight:bold"> Ameersha Abdul Rahman  </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"> Officer </div>
+                   <div style="color:#404040;font-size:12px;margin-top:4px"><b>Specialization:</b> QA </div></div> 
+               <div style="display:flex;justify-content:space-between;padding-left:15px;padding-right:15px;">
+                 <div> Manages:  0 👤</div>  
+                 <div> Oversees: 0 👤</div>    
+               </div>
+              </div>     
+      </div>
+  </div></foreignObject><g class="node-button-g" transform="translate(120,160)" display="none" opacity="0"><rect class="node-button-rect" opacity="0" pointer-events="all" width="40" height="40" x="-20" y="-20"></rect><foreignObject class="node-button-foreign-object" width="40" height="40" x="-20" y="-20" style="overflow: visible;"><div class="node-button-div" style="pointer-events: none; display: flex; width: 100%; height: 100%;"><div style="border-radius:3px;padding:3px;font-size:10px;margin:auto auto;background-color:lightgray"> <div style="margin-top:-20px;font-size:25px">ˬ</div>  </div></div></foreignObject></g></g></g><g class="connections-wrapper"></g></g></g><g class="defs-wrapper"><defs>
+                    
+                    </defs>
+                    </g></svg>
